@@ -1,2 +1,3 @@
-let title = document.getElementsByClassName("title");
+let title = document.getElementsByClassName("intro");
 title.style.color="green";
+title.style.fontSize=20px;
