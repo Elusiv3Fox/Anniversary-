@@ -1,2 +1,2 @@
 let title = document.getElementByClassName("title");
-title.style.color="gree";
+title.style.color="green";
